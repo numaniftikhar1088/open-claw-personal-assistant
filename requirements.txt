@@ -1,0 +1,7 @@
+python-jobspy
+pydantic
+ollama
+pandas
+gspread
+google-antigravity
+streamlit
